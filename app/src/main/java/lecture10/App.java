@@ -4,7 +4,8 @@
 package lecture10;
 
 public class App {
-    public String getGreeting() {
+		// TODO: Demo for CMSC389T
+		public String getGreeting() {
         return "Hello World!";
     }
 
